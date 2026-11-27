@@ -113,3 +113,5 @@ details{background:rgba(255,255,255,.06);border-radius:14px;padding:14px 18px;ma
 .flip>div{position:absolute;inset:0;border-radius:18px;backface-visibility:hidden;display:flex;flex-direction:column;justify-content:flex-end;padding:16px;font-weight:900;color:#fff;background:var(--a)}
 .flip>div:last-child{transform:rotateY(180deg);background:var(--ink);justify-content:center;gap:6px}.flip em{font-style:normal;font-size:44px;line-height:1}.flip b{font-size:22px;line-height:1.05;text-transform:uppercase;letter-spacing:-.02em}.flip small{font-weight:600;opacity:.85;font-size:13.5px;line-height:1.3}.flip i{font-style:normal;color:var(--amber);font-size:26px}
 @media(prefers-reduced-motion:reduce){*{animation-duration:.01s!important;transition-duration:.01s!important}}
+
+.ep-hero .seo{position:relative;z-index:1;font-weight:700;font-size:clamp(16px,1.5vw,21px);max-width:34em;margin:18px 0 0;opacity:.95}

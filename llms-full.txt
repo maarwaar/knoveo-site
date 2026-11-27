@@ -1,0 +1,284 @@
+# Knoveo: every story in full
+
+> Sourced breakdowns of the businesses hiding in plain sight. Each story below has the short answer, the checked facts with sources, questions and answers, and the full narration of the film.
+
+
+## How Copart Makes Money From Wrecked Cars
+
+Film title: The $1.5 Billion Business Hiding in a Junkyard
+Page: https://knoveo.com/stories/junkyard-empire/
+Film: https://youtu.be/Vn1IX7W257g
+
+### The short answer
+When a car is written off, the insurer pays the owner and hands the wreck to an auction company. The biggest is Copart. It sells more than 4 million vehicles a year in online auctions, to buyers in over 185 countries. It does not own most of those cars. It charges a fee to the seller and a fee to the buyer, and in its 2026 fiscal year it kept about 32 cents of every dollar as profit: $1.48 billion on revenue of $4.67 billion.
+
+### What we checked
+- Copart made $1.48 billion of net income on $4.67 billion of revenue in the year to 31 July 2026. (Source: Copart fiscal 2026 results)
+- About 23.1% of US car insurance claims ended in a total loss in 2025, up from 18.2% in 2022. (Source: CCC Intelligent Solutions, Crash Course 2026)
+- About 81% of the vehicles Copart sells come from insurance companies. (Source: Copart annual report, fiscal 2025)
+- Copart moved every sale online in 2003 and ended its live auctions. (Source: Copart company history)
+- Its yards covered roughly 16,000 acres in 2022, and it prefers to own the land. (Source: Copart ESG report 2022)
+- After Hurricane Sandy it collected more than 85,000 vehicles in 90 days. (Source: Copart fiscal 2013 shareholder letter)
+
+### Questions
+**What happens to a car after it is totaled?**
+The insurer pays the owner the value of the car and takes ownership of the wreck. It is usually towed to a salvage yard and sold at auction, to dismantlers who sell the parts, rebuilders who repair it, or exporters who ship it abroad.
+
+**How does Copart make money?**
+Mostly from fees. Copart does not own most of the vehicles it sells. It charges the seller and the buyer a fee on each sale, plus charges for towing and storage. About 85 cents of every dollar of its revenue is a service fee.
+
+**Why are more cars being written off?**
+Cars are older, so they are worth less, and they carry more sensors and cameras, so they cost more to repair. When the repair bill gets close to the value of the car, the insurer writes it off.
+
+### The whole story
+
+#### Cold open
+This car has about three seconds left. Wrecked. Totaled. Worthless. Except, it is not worthless. The insurance company pays the owner, and takes the car. And then, the car disappears. Not into a crusher. Into a giant yard, owned by a company you have probably never heard of. There, it is sold in an online auction. To buyers in more than one hundred and eighty-five countries. That company sells more than four million vehicles a year. It keeps about thirty-two cents of every dollar as profit. That is one and a half billion dollars a year, from cars nobody wanted. And it all started in 1982, with one junkyard in California. So how did one junkyard become all of this? This is Copart. And this is the junkyard empire.
+
+#### The Math
+Start with a strange fact. In America, almost one in four car insurance claims now ends with the car being written off. That is the highest share ever recorded. Insurers call this a total loss. It does not mean the car is destroyed. It means the repair costs too much, compared with what the car is worth. Three years earlier, it was closer to one in five. The reason is simple math. Say your car is worth eight thousand dollars. And the repair bill comes to six thousand. That is not unusual. In 2025, the average repair bill was close to five thousand dollars. For the insurer, fixing it makes no sense. It is cheaper to pay you, and sell what is left. And two things keep pushing more cars over that line. First, cars are getting older. The average American car is now almost thirteen years old. Older cars are worth less, so it takes less damage to total them. About seven in ten totaled cars are at least seven years old. Second, cars are packed with sensors and cameras, and even a small crash can mean an expensive repair. More than a quarter of repair estimates now include recalibrating those sensors. So every year, millions of damaged cars need somewhere to go.
+
+#### The Junkyard
+In 1982, a thirty-four year old named Willis Johnson bought a junkyard in Vallejo, California. He had already spent ten years in the salvage business. He grew up in Oklahoma, with a father who tried everything, from dairy farming, to restaurants, to building houses. He started with a partner, and bought him out in 1986. At the time, junkyards were small, local, and messy. Johnson saw something different. Insurance companies did not want wrecked cars. They wanted them gone, quickly, and for the best price. So he built a business around that one job. By 1993, one yard had become eleven. Then, in 1994, he did something junkyards did not do. He took the company public. It sold two point three million shares, at twelve dollars each. The money paid for more yards, all across the country. A year later, Copart bought a rival auction group, and doubled its number of yards in a single deal. By 1997, there were fifty. Fortune magazine ranked it among the one hundred fastest growing companies in America. But the biggest move was still to come.
+
+#### The Internet Bet
+Back then, a salvage auction was a crowd of local buyers, standing in a dusty lot. Only the people who could drive to the yard could bid. If it rained, fewer buyers showed up. And fewer buyers meant lower prices. In 1998, Copart let buyers bid over the internet. It says it was the first in its industry to put photos of the cars online. A buyer no longer had to see the car. They only had to see the screen. And in 2003, it went all the way. It became the first to move every sale online, and it ended its live auctions. That first online system went on to sell more than ten million vehicles. The same year, Copart opened its first yard outside the United States, in Canada. A few years later, it reached Britain. Now a wrecked car in Texas could be sold to a buyer on the other side of the world. More bidders meant higher prices. Higher prices meant insurers got more money back. And that meant insurers sent Copart even more cars. Today, about one million members, in more than one hundred and eighty-five countries, can bid. On any given day, more than one hundred and twenty-five thousand vehicles are up for auction.
+
+#### The Money
+Here is the part that makes this business so unusual. Copart does not own most of the cars it sells. The cars belong to the sellers, mostly insurers. Copart just runs the sale. About eight in ten of those vehicles come from insurance companies. The rest come from rental fleets, lenders and dealers. Because it does not buy most of the cars, it does not need much money tied up in stock. And it charges a fee on both sides. The seller pays. The buyer pays. It also charges for towing, and for storage. And when cars sell for more, Copart usually earns more too. Add it up, and about eighty-five cents of every dollar of revenue is a service fee. It is less like a car dealer, and more like a toll booth. Last year, that toll booth collected four point six seven billion dollars. And it kept one point four eight billion as profit. In just nine months, it spent more than one point six billion dollars buying back its own shares.
+
+#### The Land
+So why has nobody copied it? The answer is under the cars. Wrecked cars need space. A lot of space. Storage is the real product. An insurer needs a wreck collected today, not next week. By its own count in 2022, Copart's yards covered roughly sixteen thousand acres. In a single year, it added about twelve hundred more. And the company has always preferred to own that land, not rent it. That matters, because very few towns welcome a new junkyard next door. Today it runs more than two hundred and fifty locations, in eleven countries. About eighty-three cents of every dollar still comes from the United States. A rival would need the land, the buyers, and the insurers, all at once.
+
+#### The Storms
+Then there are the storms. When a hurricane floods a city, it can destroy hundreds of thousands of cars in a few days. Hurricane Katrina damaged around six hundred thousand vehicles. After Hurricane Sandy, in 2012, Copart picked up more than eighty-five thousand vehicles in ninety days. Three days after Sandy, insurers had already assigned it more than six thousand cars. Three days after Katrina, the number was three hundred and fifty-nine. At the peak, it collected more than two thousand three hundred cars in a single day. Every day, the wrecks filled almost eleven more acres. It brought in workers from as far away as England, and opened fourteen temporary yards. That response cost the company more than thirty-six million dollars. But it is a big reason insurers keep coming back. Today, Copart says its storm teams move in within one to two days of a storm passing. After Hurricane Ian, it says it recovered hundreds of thousands of flooded vehicles.
+
+#### The Buyers
+So who actually buys a wrecked car? The members range from scrapyards and repair shops, to ordinary people hunting for a cheap project. Some buyers take them apart, and sell the parts. Some rebuild them, and put them back on the road. Even a flooded car is not always finished. Carfax has estimated that about half of flood damaged cars are driven again. And some are shipped overseas, where labor is cheaper and repairs cost less. The same car that was worthless in one country, is worth fixing in another.
+
+#### The Catch
+It is not a perfect business. It has one big rival, Insurance Auto Auctions (IAA), which was bought in 2023 for about seven point three billion dollars. And it depends on something it cannot control. How many cars crash, and how many are insured. Last year, Copart's profit per share slipped, from a dollar fifty-nine to a dollar fifty-five. The company said insurance volumes fell, as claims softened and drivers changed how they insure their cars. In its latest quarter, revenue still grew. But profit fell by about seventeen percent. And the founder is no longer in charge. Willis Johnson stepped down as chief executive in 2010, and handed the job to his son in law. He later told the whole story in a book, called Junk to Gold.
+
+#### The Idea
+Still, the idea has barely changed in forty years. Take the thing nobody wants. Find the person who does. And charge a fee to both. That is how one junkyard became an empire. If you enjoyed this, subscribe. Next time, we open up another business hiding in plain sight.
+
+### Sources
+1. Copart (members in over 185 countries)
+2. Copart (more than 4 million units sold in the last year)
+3. Copart fiscal 2026: net income $1.48B on revenue $4.67B
+4. Copart fiscal 2026 results (year ended July 31, 2026)
+5. Copart company history
+6. CCC Intelligent Solutions, Crash Course 2026 (23.1% in 2025)
+7. CCC Intelligent Solutions, Crash Course 2026
+8. CCC Intelligent Solutions, Crash Course 2026 (12.8 years in 2025)
+9. CCC data reported by MoneyGeek (28.3% in 2025)
+10. FundingUniverse, Copart Inc. history
+11. Copart company profile
+12. Copart timeline (11 locations, 1982 to 1993)
+13. Copart IPO, March 1994
+14. Copart history (NER Auction Group, 1995)
+15. Copart timeline
+16. Copart fiscal 2013 shareholder letter
+17. Copart (approximately 1 million members, over 185 countries)
+18. Copart
+19. Copart annual report (most vehicles sold on behalf of sellers)
+20. Copart annual report, fiscal 2025
+21. Copart Q3 fiscal 2026 results (fee revenue per unit)
+22. Copart Q3 fiscal 2026 results (service revenues, nine months)
+23. Copart Q3 fiscal 2026 earnings call
+24. Copart ESG report 2022 (approx. 16,000 acres)
+25. Copart ESG report 2022
+26. Carfax estimates reported after Katrina, Sandy and Ian
+27. Carfax estimate, reported by Claims Journal
+28. Copart CEO, reported by Auto Remarketing (2012)
+29. Copart catastrophe response
+30. Copart (dismantlers, rebuilders, exporters and the public)
+31. Carfax, reported by Claims Journal (2017)
+32. Ritchie Bros. / IAA acquisition, completed March 2023
+33. Copart Q4 fiscal 2026 results (net income, $ millions)
+34. Wikipedia, Willis Johnson
+
+
+## How Hasbro Makes Money: Magic: The Gathering, Not Toys
+
+Film title: The Toy Company That Runs on Cardboard
+Page: https://knoveo.com/stories/cardboard-empire/
+
+### The short answer
+Hasbro is known for Monopoly, Transformers, Nerf and Play-Doh. But in 2025 about 88% of its adjusted operating profit, $1,007 million of $1,140 million, came from one division: Wizards of the Coast, the maker of the trading card game Magic: The Gathering. The card division kept 46 cents of every dollar it sold. Toys kept less than five.
+
+### What we checked
+- Wizards of the Coast and Digital Gaming made $1,007 million of operating profit in 2025, at a 46.0% margin. (Source: Hasbro full-year 2025 results)
+- Hasbro Consumer Products (toys) made $113 million of adjusted operating profit in 2025. (Source: Hasbro full-year 2025 results)
+- Magic: The Gathering revenue rose 59% in 2025. (Source: Hasbro full-year 2025 results)
+- Magic passed $600 million of revenue in a single quarter for the first time in Q3 2026 ($616.1 million). (Source: Hasbro third-quarter 2026 results)
+- Hasbro bought Wizards of the Coast in 1999 for about $325 million. (Source: Hasbro acquisition of Wizards of the Coast, 1999)
+- Monopoly Go!, a licensed mobile game, contributed $168 million to Hasbro in 2025. (Source: Hasbro full-year 2025 results)
+
+### Questions
+**How much of Hasbro's profit comes from Magic: The Gathering?**
+In 2025 the division that makes Magic, Wizards of the Coast and Digital Gaming, earned $1,007 million of Hasbro's $1,140 million of adjusted operating profit, or about 88%.
+
+**Why are trading cards more profitable than toys?**
+A card is paper and ink, so it is cheap to make and ship. Players buy again with every new set, and because cards can be traded and resold, a sealed pack feels like a chance to win something. Toys need molds, factories and shelf space, and are exposed to tariffs.
+
+**What is the risk for Hasbro?**
+Scarcity. A collectible is only valuable while it feels rare. In November 2022 a Bank of America analyst argued that Hasbro was printing too many cards too often. Hasbro said it saw no evidence of overprinting.
+
+### The whole story
+
+#### Cold open
+Watch this pack of cards. Inside, there is nothing but printed cardboard. But on one day in June 2025, packs like this one brought in two hundred million dollars. The company behind them is not a card company. It is one of the most famous toy makers on Earth. Monopoly. Transformers. Nerf. Play-Doh. But in 2025, toys earned barely a tenth of its profit. Almost nine dollars in every ten came from cardboard. From a card game that most adults have never played. So how did a game, printed on paper, swallow a toy giant? This is Hasbro. And this is the cardboard empire.
+
+#### The Numbers
+Start with Hasbro's own numbers, for 2025. That year, its sales grew fourteen percent, to four point seven billion dollars. Now picture its operating profit as one hundred coins. Eighty-eight of them came from one division. Wizards of the Coast, the home of Magic: The Gathering. The entire toy business, every action figure, every board game, every tub of Play-Doh, earned about ten. Now look at what each side keeps. The card division kept forty-six cents of every dollar it sold. Toys kept less than five. One caveat. These are adjusted figures. On paper, the toy division lost money in 2025, after Hasbro wrote down a billion dollars of its value. And to be fair, toys are not dying. Toy sales fell four percent that year, not forty. The problem is not that toys are small. It is that they barely make money.
+
+#### The Game
+So what is Magic? It is a trading card game. Two players each build a deck, then battle with creatures and spells, until one of them runs out of life. But the real product is not the game. It is the pack. Cards are sold in sealed packs, and you never know what is inside. Most cards are common. A few are rare, powerful, and worth real money to collectors. So players keep opening packs. And every few months, a new set arrives, with hundreds of new cards to chase. In 2025, Magic alone brought in about one point seven billion dollars. That is more than a third of everything Hasbro sold. More than thirty years after it launched, it had the best year in its history. Its sales grew fifty-nine percent.
+
+#### The Rejection
+It all began with a rejection. In 1991, a mathematician named Richard Garfield pitched a board game to a tiny publisher, called Wizards of the Coast. The owner, Peter Adkison, said no. It would cost too much to make. He asked for something else. Something cheap, portable, and quick to play. Garfield came back with Magic. It went on sale in the summer of 1993. The company had printed roughly two and a half million cards. Enough, it thought, to last the year. They sold out within weeks. Players did not just play it. They traded it, collected it, and argued about it. A new kind of product had been born. A game you could never quite finish buying.
+
+#### The Side Bet
+Six years later, Hasbro came calling. In 1999, it bought Wizards of the Coast for about three hundred and twenty-five million dollars. Remember that number. The deal came with two bonuses. Wizards also owned Dungeons & Dragons. And at the time, it was the company printing Pokémon cards in English. For a toy giant, it still looked like a side bet. In 2025, Magic earned that purchase price back, in revenue, about every ten weeks. And in 2022, Hasbro gave its top job to Chris Cocks. The man who had been running the card business.
+
+#### Paper Beats Plastic
+Why is cardboard such a better business than plastic? Three reasons. One. It is cheap to make. A card is paper and ink. A toy needs molds, factories, shipping containers, and shelf space. Toys are also exposed to tariffs. Hasbro tied its billion dollar write-down to exactly that. Two. Players come back. A toy is bought once. A card game is bought again, with every new set. Three. The cards hold value. Because players can trade and resell them, a pack feels less like a purchase, and more like a lottery ticket you can play with.
+
+#### The Crossovers
+Then Hasbro poured fuel on the fire. Crossovers. It began printing other people's worlds onto Magic cards. The Lord of the Rings. Marvel. Final Fantasy. Fans who had never touched Magic suddenly had a reason to buy a pack. The Lord of the Rings set took six months to reach two hundred million dollars in sales. In June 2025, the Final Fantasy set did it in a single day. Six months. Against one day. Hasbro's chief executive told investors the company still could not print enough. In the last three months of 2025, Magic sales more than doubled. Crossovers are only one of three engines. The second is the back catalog. Older sets keep selling long after release, and Hasbro says those sales hit a record in 2025. The third is a direct line to fans, called Secret Lair. Small, limited batches of special cards, sold online, for a short time. Limited supply. A deadline. And no store in the middle. And here is the surprise inside the surprise. This is not a video game story. Of the two point two billion dollars the card division made in 2025, about one point seven billion came from physical, tabletop products. In an age of screens, the growth came from paper.
+
+#### The Weak Point
+But a machine like this has a weak point. A collectible is only valuable while it feels scarce. In November 2022, a Bank of America analyst downgraded Hasbro, and accused it of killing its golden goose. The argument was simple. Print too many cards, too often, and they stop feeling rare. Card prices fall. Collectors sell. Game stores lose money. That same season, Hasbro sold a thirtieth anniversary set. Four packs, for nine hundred and ninety-nine dollars. Hasbro replied that it saw no evidence of overprinting. The critics have not gone away. Many long time players say there are simply too many releases to keep up with. But so far, the sales have backed Hasbro. Back then, the analyst put Magic at about fifteen percent of Hasbro's revenue. In 2025, it was thirty-seven.
+
+#### Right Now
+And the story is still moving. In the third quarter of 2026, Magic passed six hundred million dollars in a single quarter, for the first time. That was thirty-four percent more than a year earlier. And older sets grew even faster than new ones. The card division kept forty-nine cents of every dollar. The newest crossover, based on The Hobbit, is already the fourth best selling Magic set ever. Around the world, about thirteen thousand game stores now belong to its play network. That is up thirty-eight percent in a year. And Magic now sits on the shelves of almost forty thousand big chain stores. And the toys? They are recovering. That quarter, the toy division earned about a hundred and seventy-four million dollars, helped by tariff refunds. So the gap has narrowed. But about two thirds of the profit still came from cards. There is one last twist, and it involves Monopoly. Even Hasbro's most famous board game now earns part of its keep without a board. A mobile game called Monopoly Go, which Hasbro licenses to another company, brought it a hundred and sixty-eight million dollars in 2025. No factory. No plastic. No shipping.
+
+#### The Idea
+So here is the lesson, and it goes well beyond toys. Put a character on a plastic figure, and Hasbro keeps about five cents of each dollar. Put a character on a card, and it keeps forty-six. The idea did not change. The container did. A game rejected for costing too much. A side bet, bought for three hundred and twenty-five million dollars. And a card set that made two hundred million in a day. So next time you walk past the toy aisle, look for the little rack of card packs by the checkout. That rack is the real business. If you enjoyed this, subscribe. Next time, we open up another business hiding in plain sight.
+
+### Sources
+1. Hasbro, second-quarter 2025 earnings call (Final Fantasy set)
+2. Hasbro full-year 2025 results (February 2026), adjusted operating profit
+3. Hasbro full-year 2025 results (February 2026)
+4. Hasbro full-year 2025 results (February 2026): $1,007M of $1,140M adjusted
+5. Hasbro full-year 2025 results (February 2026): $113M adjusted
+6. Hasbro full-year 2025 results (February 2026) (46.0% operating margin)
+7. Hasbro full-year 2025 results (February 2026) (adjusted, Consumer Products)
+8. Hasbro 2025 results (non-cash goodwill impairment, Q2 2025)
+9. Hasbro full-year 2025 results (February 2026) (Consumer Products revenue, 2024 = 100)
+10. Wizards of the Coast
+11. Hasbro full-year 2025 results (February 2026) ($1.7B of $4.7B revenue)
+12. Wizards of the Coast company history
+13. Wizards of the Coast, history of Magic
+14. Hasbro acquisition of Wizards of the Coast, 1999 (approx. $325M)
+15. Hasbro full-year 2025 results (February 2026) ($1.7B a year)
+16. Hasbro (CEO appointment, February 2022)
+17. Hasbro Q2 2025 results
+18. Hasbro earnings calls, 2023 and 2025
+19. Hasbro, second-quarter 2025 earnings call
+20. Hasbro CEO Chris Cocks, 2025 earnings call
+21. Hasbro fourth-quarter 2025 earnings call
+22. Hasbro full-year 2025 results (February 2026) (segment revenue, $ billions)
+23. Bank of America research note, reported by CNBC (November 2022)
+24. Wizards of the Coast, 30th Anniversary Edition (2022)
+25. Hasbro statement, December 2022
+26. Bank of America estimate (2022); Hasbro 2025 results
+27. Hasbro 2025 results ($1.7B of $4.7B)
+28. Hasbro third-quarter 2026 results (October 2026)
+29. Hasbro Q3 2026 results and earnings call
+30. Hasbro third-quarter 2026 results (October 2026): $367M on $747M
+31. Hasbro Q3 2026 earnings call
+32. Hasbro Q3 2026 earnings call, reported by ICv2
+33. Hasbro third-quarter 2026 results (October 2026) (Consumer Products)
+34. Hasbro third-quarter 2026 results (October 2026): $367M of $541M adjusted
+
+
+## Who Owns the Pet Food Brands and Vet Clinics?
+
+Film title: The Hidden Pet Empire in Your Shopping Basket
+Page: https://knoveo.com/stories/pet-empire/
+
+### The short answer
+Four companies known for candy, toothpaste, coffee and cereal are also among the biggest pet companies. Mars, the maker of Snickers and M&M's, owns Pedigree and Whiskas and runs about 3,000 veterinary clinics. Colgate-Palmolive gets 23% of its sales from Hill's pet food. Nestlé's Purina is about a fifth of the company. General Mills paid $8 billion for Blue Buffalo. Americans spent $158 billion on their pets in 2025.
+
+### What we checked
+- US pet industry spending reached $158 billion in 2025 and is projected at $165 billion in 2026. (Source: American Pet Products Association, 2026 State of the Industry)
+- Pet food and treats were $68.3 billion of that; veterinary care and products were $41 billion. (Source: American Pet Products Association, 2026 State of the Industry)
+- Hill's Pet Nutrition was 23% of Colgate-Palmolive net sales in 2025. (Source: Colgate-Palmolive 2025 annual report)
+- Average UK vet prices rose 63% between 2016 and 2023. (Source: UK Competition and Markets Authority, final report (March 2026))
+- Large groups own about 60% of UK vet practices, and owners pay 16.6% more on average at those groups than at independents. (Source: UK Competition and Markets Authority, final report (March 2026))
+- Mars is a private company: its figures here come from reporting by Fortune, not audited accounts. (Source: Fortune reporting on Mars (2024))
+
+### Questions
+**Which companies own the big pet food brands?**
+Mars owns Pedigree, Whiskas and Sheba. Nestlé owns Purina. Colgate-Palmolive owns Hill's. General Mills owns Blue Buffalo.
+
+**Does a candy company really own vet clinics?**
+Yes. Mars bought the hospital chain VCA for $9.1 billion in 2017 and also owns Banfield. Fortune reports that it runs about 3,000 clinics worldwide.
+
+**What can pet owners do?**
+Find out whether your vet is independent or part of a chain, ask for prices before treatment, and check who owns the brand on the bag.
+
+### The whole story
+
+#### Cold open
+This is Max. He is waiting for the vet. Here she comes. And she works for a candy company. That is not a joke. The company behind Snickers, and M&M's, runs about three thousand animal hospitals. A toothpaste company makes a fortune from dog food. So does a coffee company. And a cereal company. In 2025, Americans spent a hundred and fifty-eight billion dollars on their pets. And the brands in your kitchen and bathroom want that money. So why is everyone turning into a pet company? This is your shopping basket. And this is the hidden pet empire.
+
+#### The Candy Vets
+Start with Mars, the candy giant. It has been in pet food since 1935, when it bought a British dog food maker. Today it owns Pedigree, Whiskas, Sheba, and many more. Then it went further than food. In 2017, it paid nine point one billion dollars for a hospital chain called VCA. Add Banfield, with more than a thousand hospitals, many of them inside PetSmart stores. And in 2018, another two point four billion dollars, for a chain in Europe. The total is now about three thousand clinics, around the world. Fortune counts roughly thirty acquisitions since the 1990s. Over those three decades, Mars grew from about thirteen billion dollars in sales, to about fifty billion. According to figures cited by Fortune, corporations now own about one in five American vet clinics. And Mars owns nearly half of those. So the same company can sell the food in your dog's bowl, and employ the vet who examines him.
+
+#### The Toothpaste
+Now look at Colgate-Palmolive. The toothpaste company. In 2025, it sold a record twenty point four billion dollars of goods. It sells about four of every ten tubes of toothpaste on Earth. But that is not where the growth is. Picture every hundred dollars of its sales as one hundred coins. Twenty-three of them are not toothpaste, soap, or detergent. They are pet food, sold under the name Hill's. That is more than four and a half billion dollars a year. And it is one of the most profitable parts. Hill's keeps more than twenty cents of every dollar it sells, as operating profit. Its own annual report calls Hill's the number one brand recommended by vets in the United States. The story starts in 1939, with a guide dog named Buddy. Buddy had kidney disease. A veterinarian, Doctor Mark Morris, designed a special diet to keep her alive. In 1948, he teamed up with a packing company in Topeka, Kansas, to make it at scale. And in 1976, Colgate bought the business. For a toothpaste maker, it looked like a strange side bet. Today, Colgate's own executives call it the biggest contributor to the company's growth over its last five year plan.
+
+#### Why Pet Food
+So what makes pet food such a good business? Three things. First, the vet. Hill's is sold through veterinarians and pet stores in more than eighty countries. When a vet recommends a food, most owners listen. Second, the calendar. A dog that eats twice a day for twelve years gets through almost nine thousand meals. Usually of the same brand. Third, pricing. In the middle of 2025, almost all of the growth at Hill's came from higher prices, not from selling more. Owners are slow to trade down on a member of the family. When money is tight, owners protect food and vet care, and cut the extras instead.
+
+#### Coffee & Cereal
+Nestlé tells the same story, on a bigger scale. You know it for coffee and chocolate. But its Purina pet care business brought in more than eighteen billion Swiss francs in 2025. That is about one fifth of the whole company, and its second largest category. It is also more profitable. Pet care earned a margin of almost twenty-two percent, against sixteen percent for Nestlé overall. There is a fourth name on this list. General Mills, the company behind Cheerios. In 2018, it paid eight billion dollars for a pet food brand called Blue Buffalo. It borrowed six billion dollars to do it. Today, pet food brings in about two point six billion dollars a year. Roughly one seventh of everything General Mills sells. That is four companies, from four different aisles, all arriving at the pet shelf.
+
+#### The Money
+Why all of them? Follow the money. Their famous products grow slowly. People only brush their teeth so many times a day. But spending on pets keeps finding new room. In 2018, Americans spent about ninety billion dollars on their pets. By 2025, a hundred and fifty-eight billion. Growth of roughly seventy-five percent in seven years. The industry expects a hundred and sixty-five billion in 2026. Food and treats take the biggest share. Sixty-eight billion dollars. Veterinary care comes second, at forty-one billion. Supplies, medicines and live animals add another thirty-four billion. And services, like grooming, boarding and insurance, add fourteen billion more. About half of the growth expected in 2026 is simply higher prices. Food and vets. Exactly the two places where these companies planted their flags.
+
+#### The Fridge
+The newest battleground is the refrigerator. Fresh, chilled pet food is one of the corners the big brands are now racing into. General Mills says sales of its fresh dog food jumped eighty percent in a single quarter. It now sits in about six thousand store fridges. And Hill's, the Colgate brand, began rolling out its own fresh dog food in the United States in July 2026. A product that needs a fridge costs more to make, more to ship, and sells for more. Which is exactly the point.
+
+#### The Vet Bill
+The veterinary side is where the story gets uncomfortable. In Britain, the competition regulator spent more than two years investigating vet services. Pet owners there spend more than six billion pounds a year at the vet. Its final report, in March 2026, found that average vet prices rose sixty-three percent in seven years. That is about twice the rate of inflation. It found that six large groups now own about sixty percent of British vet practices. And that owners pay, on average, sixteen point six percent more at those groups than at an independent vet. The regulator said some of the big groups were earning far more profit than a healthy market would allow. Mars owns one of those six groups. Fewer than half of the people using a chain even knew it was one. The regulator did not break the groups up. Instead, it ordered every practice to publish its prices. It capped the fee for a written prescription. It ordered a price comparison website. And it will make the big groups put their own name on the door. And there is one more layer still forming. Insurance. In the United States, more than ninety-five percent of dogs and cats still have no cover at all. That gap is the next prize the industry is chasing.
+
+#### The Catch
+Two caveats. First, this is not a guaranteed winner. A growing share of American pet owners say they are spending less. And in 2025, Colgate's sales were held back by a drop in the pet food it makes for other brands. Second, Mars is a private company. Its figures here come from reporting by Fortune, not from audited accounts.
+
+#### For You
+So what does this mean, if you own a pet? Three practical things. One. Find out whether your vet is independent, or part of a chain. Two. Ask for prices before treatment, not after. Three. Look at who owns the brand on the bag. A handful of companies now stand behind a great many labels. So next time you pick up toothpaste, a chocolate bar, or a jar of coffee, remember what else that company sells. The name on the label is not always the business. Sometimes, the real customer has four legs. If you enjoyed this, subscribe. Next time, we open up another business hiding in plain sight.
+
+### Sources
+1. Fortune reporting on Mars (2024)
+2. American Pet Products Association, 2026 State of the Industry
+3. Mars company history
+4. Mars acquisition of VCA (2017)
+5. Mars Veterinary Health
+6. Fortune reporting on Mars (2024) ($ billions, private company)
+7. Colgate-Palmolive 2025 annual report
+8. Colgate-Palmolive 2025 annual report (41.3% global market share)
+9. Colgate-Palmolive 2025 annual report (23% of net sales)
+10. Colgate-Palmolive 2025 annual report (23% of $20.4B)
+11. Colgate-Palmolive 2025 annual report (operating margin about 22 to 24% by quarter)
+12. Hill's Pet Nutrition company history
+13. Colgate-Palmolive strategy presentation
+14. Colgate-Palmolive, second-quarter 2025 report (Hill's)
+15. Nestlé 2025 full-year results
+16. Nestlé 2025 full-year results (underlying trading operating profit margin)
+17. General Mills acquisition of Blue Buffalo (2018)
+18. General Mills (2018 financing)
+19. General Mills annual results
+20. American Pet Products Association, 2026 State of the Industry ($ billions)
+21. General Mills earnings call, fiscal 2026 (index, prior quarter = 100)
+22. General Mills earnings call, fiscal 2026
+23. Hill's Pet Nutrition announcement (2026)
+24. UK Competition and Markets Authority, final report (March 2026)
+25. UK Competition and Markets Authority, final report (March 2026) (2016 = 100)
+26. UK Competition and Markets Authority, final report (March 2026) (independent = 100)
+27. UK Competition and Markets Authority, final report (March 2026) (Linnaeus)
+28. North American Pet Health Insurance Association, 2026 report
+29. Colgate-Palmolive 2025 results

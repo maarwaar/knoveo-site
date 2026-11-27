@@ -4,8 +4,11 @@
 
 ## Stories
 - [The $1.5 Billion Business Hiding in a Junkyard](https://knoveo.com/stories/junkyard-empire/): What happens to a car after it is totaled? One company sells more than 4 million wrecks a year and keeps about 32 cents of every dollar as profit. The story of Copart.
-- [The Toy Company That Runs on Cardboard](https://knoveo.com/stories/cardboard-empire/): Hasbro owns Monopoly, Transformers, Nerf and Play-Doh. But in 2025 about 88% of its profit came from a card game: Magic: The Gathering.
+- [The Toy Company That Runs on Cardboard](https://knoveo.com/stories/cardboard-empire/): Hasbro owns Monopoly, Transformers, Nerf and Play-Doh. But in 2025 about 88% of its profit came from one division: Wizards of the Coast, the home of Magic: The Gathering.
 - [The Hidden Pet Empire in Your Shopping Basket](https://knoveo.com/stories/pet-empire/): A candy company runs about 3,000 animal hospitals. A toothpaste company gets 23% of its sales from dog food. Why the brands in your kitchen are turning into pet companies.
+
+## Full text
+- [Every story in full, as plain text](https://knoveo.com/llms-full.txt)
 
 ## More
 - [Sources and corrections](https://knoveo.com/sources/)
