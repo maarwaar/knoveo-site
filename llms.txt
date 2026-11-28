@@ -4,8 +4,10 @@
 
 ## Stories
 - [How Copart Works: The $1.5 Billion Junkyard Business](https://knoveo.com/stories/junkyard-empire/): What happens to a car after it is totaled? One company sells more than 4 million wrecks a year and keeps about 32 cents of every dollar as profit. The story of Copart.
-- [The Toy Company That Runs on Cardboard](https://knoveo.com/stories/cardboard-empire/): Hasbro owns Monopoly, Transformers, Nerf and Play-Doh. But in 2025 about 88% of its profit came from one division: Wizards of the Coast, the home of Magic: The Gathering.
-- [The Hidden Pet Empire in Your Shopping Basket](https://knoveo.com/stories/pet-empire/): A candy company runs about 3,000 animal hospitals. A toothpaste company gets 23% of its sales from dog food. Why the brands in your kitchen are turning into pet companies.
+- [How Magic: The Gathering Took Over Hasbro](https://knoveo.com/stories/cardboard-empire/): Hasbro owns Monopoly, Transformers, Nerf and Play-Doh. But in 2025 about 88% of its profit came from one division: Wizards of the Coast, the home of Magic: The Gathering.
+- [Why Is the Vet So Expensive? The Candy Company Behind 3,000 Clinics](https://knoveo.com/stories/pet-empire/): A candy company runs about 3,000 animal hospitals. A toothpaste company gets 23% of its sales from dog food. Why the brands in your kitchen are turning into pet companies.
+- [How Do Gift Cards Make Money? The Company Behind the Rack](https://knoveo.com/stories/gift-card-machine/): A supermarket sells gift cards for brands it does not own, and one middleman wires the whole rack. Here is how a $100 card splits, what happens to unused cards, and the company most shoppers have never heard of.
+- [The Scholastic Book Fair: Who Really Makes the Money?](https://knoveo.com/stories/book-fair-machine/): In its 2026 financial year, Scholastic's book fairs brought in $576.0 million, 36 cents of every dollar of revenue. A school chooses 25% in cash or 50% in Scholastic Dollars, and this is how the pop-up shop in the gym works.
 
 ## Full text
 - [Every story in full, as plain text](https://knoveo.com/llms-full.txt)

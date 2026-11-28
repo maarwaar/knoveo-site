@@ -115,3 +115,8 @@ details{background:rgba(255,255,255,.06);border-radius:14px;padding:14px 18px;ma
 @media(prefers-reduced-motion:reduce){*{animation-duration:.01s!important;transition-duration:.01s!important}}
 
 .ep-hero .seo{position:relative;z-index:1;font-weight:700;font-size:clamp(16px,1.5vw,21px);max-width:34em;margin:18px 0 0;opacity:.95}
+
+.lv .post{display:none}.lv.is-live .post{display:inline-flex}.lv.is-live .pre{display:none}.lv.blk{height:100%}.lv.blk .post{height:100%}.lv.blk.is-live .post{display:block}
+.bars3{display:grid;gap:12px;margin:18px 0 8px}.bars3>div{display:grid;grid-template-columns:5.2em 1fr;align-items:center;gap:4px 12px}.bars3 b{font-size:clamp(20px,2.4vw,28px);font-weight:900;letter-spacing:-.02em}.bars3 i{display:block;height:22px;border-radius:999px;background:var(--c);width:var(--w,4%);min-width:10px;transition:width .25s}.bars3 span{grid-column:2;font-weight:700;opacity:.75;font-size:14px}
+.pick{display:flex;gap:8px;margin:16px 0 4px}.pick button{all:unset;cursor:pointer;font-weight:900;padding:.6em 1.1em;border-radius:999px;border:3px solid var(--ink)}.pick button.on{background:var(--ink);color:#fff}.pick button:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+#fout{font-size:clamp(17px,2vw,21px);font-weight:600;margin:14px 0 6px}#fout b{font-weight:900}#fout .big{display:block;font-size:clamp(34px,5vw,54px);font-weight:900;letter-spacing:-.03em}#fairw.sd #fout .big{color:#7B5CD6}

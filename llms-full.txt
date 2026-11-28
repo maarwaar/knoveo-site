@@ -101,7 +101,7 @@ Still, the idea has barely changed in forty years. Take the thing nobody wants. 
 
 ## How Hasbro Makes Money: Magic: The Gathering, Not Toys
 
-Film title: The Toy Company That Runs on Cardboard
+Film title: How Magic: The Gathering Took Over Hasbro
 Page: https://knoveo.com/stories/cardboard-empire/
 
 ### The short answer
@@ -196,7 +196,7 @@ So here is the lesson, and it goes well beyond toys. Put a character on a plasti
 
 ## Who Owns the Pet Food Brands and Vet Clinics?
 
-Film title: The Hidden Pet Empire in Your Shopping Basket
+Film title: Why Is the Vet So Expensive? The Candy Company Behind 3,000 Clinics
 Page: https://knoveo.com/stories/pet-empire/
 
 ### The short answer
@@ -282,3 +282,188 @@ So what does this mean, if you own a pet? Three practical things. One. Find out 
 27. UK Competition and Markets Authority, final report (March 2026) (Linnaeus)
 28. North American Pet Health Insurance Association, 2026 report
 29. Colgate-Palmolive 2025 results
+
+
+## How Do Gift Cards Make Money? Who Gets Paid
+
+Film title: How Do Gift Cards Make Money? The Company Behind the Rack
+Page: https://knoveo.com/stories/gift-card-machine/
+
+### The short answer
+A gift card pays several companies at once. In 2017, Blackhawk Network collected about $9.20 for every $100 loaded onto its US racks, from commission paid by the brands and fees on prepaid cards. About 60% of that went to the stores that host the racks, so a supermarket earned about $5.50 on a $100 card, Blackhawk kept less than $4, and the brand received about $91. The brand also gets its money up front, and some cards are never used: a 2024 Bankrate survey found about $27 billion in unused gift cards. These are averages, and every deal is negotiated.
+
+### What we checked
+- In 2017, Blackhawk collected about $9.20 for every $100 loaded on its US racks, and about 60% of that went to the stores that host them. (Source: Blackhawk Network annual report for 2017 (Form 10-K))
+- In 2017, the last year it published full accounts, Blackhawk had revenue of $2.2 billion and reported a loss of $156 million. Kroger was 10% of its revenue and Apple was 11%. (Source: Blackhawk Network annual report for 2017 (Form 10-K))
+- At the end of its 2025 financial year, Starbucks reported about $1.8 billion in card balances and other payments received in advance. (Source: Starbucks annual report, fiscal 2025 (Form 10-K))
+- In 2024, 43% of US adults had at least one unused gift card, with $244 on average, about $27 billion in total. (Source: Bankrate survey of US adults (September 2024))
+- Since 2009, the money on a gift card cannot expire for at least five years, and inactivity fees are banned for the first 12 months. (Source: Credit CARD Act of 2009; Federal Trade Commission guidance)
+- In 2024, people reported losing $212 million to gift card scams. (Source: Federal Trade Commission data for 2024, as reported by NCSL)
+
+### Questions
+**Why do supermarkets sell gift cards for other stores?**
+Because the rack pays. In 2017 Blackhawk collected about $9.20 per $100 loaded on its US racks, and about 60% of that went to the host stores, roughly $5.50 on a $100 card. These are averages, and every deal differs. The rack also takes almost no space, nothing on it can spoil, and a card is only switched on when the cashier scans it and you pay.
+
+**What happens to unused gift cards?**
+Companies plan for it. They study how old cards get used, estimate the share that never will be, and count that share as sales. The industry calls it breakage. Starbucks counted more than $220 million this way in its 2025 financial year. In some states, long-forgotten balances must be handed to the state as unclaimed property.
+
+**Do gift cards expire?**
+Under a 2009 federal law, the money on a gift card cannot expire for at least five years, and inactivity fees are banned for the first 12 months. Some states go further. In California, most store gift cards can never expire.
+
+### The whole story
+
+#### Cold open
+Watch this gift card. Fifty dollars. Scanned at a supermarket checkout. In that one beep, three companies just got paid. And nobody has bought anything yet. The store that sold it does not even own the brand on the card. And if this card ends up forgotten in a drawer, somebody else keeps the money. In 2024, a survey estimated that Americans were holding about twenty-seven billion dollars in unused gift cards. So who really makes money on a gift card? And why does your supermarket sell gift cards for other stores? This is the business behind the rack. This is the gift card machine.
+
+#### The Rack
+Start with the rack itself. Coffee. Video games. Dinner. Home improvement. A steak dinner, hanging next to the chewing gum. Dozens of brands, hanging in a store that sells none of them. This rack was not invented by a bank, or by a tech company. It came out of a supermarket. In two thousand one, the grocery chain Safeway set up a small division, to sell other companies' gift cards in its own stores. That division was called Blackhawk Network. The idea worked. Soon, other grocery chains wanted the same rack. So Blackhawk became the middleman. It signs up the brands, and it signs up the stores. By 2017, its cards hung in more than forty-six thousand stores across the United States. And it carried more than nine hundred brands. Safeway spun the company off in 2014. Most shoppers have still never heard its name. Outside the United States, it reached more than two hundred thousand more locations, in twenty-five other countries.
+
+#### The Split
+So follow the money on a single card. Say you load one hundred dollars onto a restaurant gift card, at the supermarket. The restaurant does not get one hundred dollars. In 2017, Blackhawk collected about nine dollars and twenty cents for every hundred loaded on its American racks. That money comes from the brands on the cards, as commission, and from fees on prepaid cards. Then Blackhawk shares it. About sixty percent went straight to the stores that host the racks. So on a hundred dollar card, the supermarket earned about five dollars and fifty cents. Blackhawk kept less than four. And the restaurant ended up with about ninety-one dollars. These are averages. Every deal is negotiated. The brand also gets something money alone cannot buy. A place in front of every shopper, every week. Now you can see why the supermarket loves this rack. It takes almost no space. Nothing on it can spoil. And a card is only switched on when the cashier scans it, and you pay. About five dollars, for hanging up a piece of plastic. But why would a brand pay to hang in someone else's store?
+
+#### Money Now
+The first reason is timing. When you buy a gift card, the brand gets its money up front. It hands over the coffee, or the dinner, weeks or months later. Until then, your money sits with the company. Look at Starbucks, which runs its own cards and its own app. At the end of its 2025 financial year, Starbucks reported about one point eight billion dollars in card balances and other payments received in advance. That is money from customers, for coffee they have not ordered yet. In effect, an interest-free loan. No bank. No paperwork. No interest. And it peaks every winter. Starbucks says its cards are mostly loaded during the holiday season. That lifts its cash flow at the start of every financial year.
+
+#### The Drawer
+The second reason is the drawer. Some cards are never used. The industry has a word for that money. Breakage. In 2024, a Bankrate survey found that forty-three percent of American adults had at least one unused gift card. On average, each of them was sitting on two hundred forty-four dollars. Added up, about twenty-seven billion dollars. And the pile keeps growing. In 2021, the average was one hundred sixteen dollars. The households that leave the most behind are the wealthiest ones. Companies plan for this. They study how old cards get used, and estimate the share that never will be. Then they count that share as sales. In its 2025 financial year, Starbucks counted more than two hundred twenty million dollars this way. Revenue, for coffee nobody drank.
+
+#### The Law
+It used to be worse. Many gift cards used to expire, or lose value to inactivity fees. So in two thousand nine, Congress stepped in. Today, the money on a gift card cannot expire for at least five years. And inactivity fees are banned for the first twelve months. Some states go further. In California, most store gift cards can never expire. And in some states, long-forgotten balances must be handed to the state, as unclaimed property. So breakage is real. But it is not the main prize.
+
+#### The Visit
+The main prize is you, walking through the door. A gift card is a customer the brand did not have to find. Someone else chose the store. Someone else paid. And a fifty dollar card almost never buys exactly fifty dollars. Spend forty-six, and four dollars stay behind. Spend sixty, and the brand just sold you ten dollars more. Either way, the brand wins. That is why a brand will pay to hang in someone else's store. And it is why gift cards keep topping wish lists. In October 2026, forty-seven percent of holiday shoppers told the National Retail Federation they wanted gift cards. More than any other gift.
+
+#### The Middleman
+So Blackhawk must be a gold mine. Not exactly. In 2017, the last year it published full accounts, more than sixteen billion dollars was loaded through its retail channels. Its revenue was two point two billion dollars. And that year, it reported a loss of one hundred fifty-six million. Because the middleman is squeezed from both sides. One grocery chain, Kroger, made up ten percent of its revenue. And one brand, Apple, accounted for eleven percent. Lose either one, and a tenth of the business walks out. And the biggest stores can ask for a bigger share. What Blackhawk really owns is the wiring. A card on the rack is dead plastic. It comes alive when the cashier scans it, and a signal runs from the till, through Blackhawk, to the brand. Tens of thousands of stores, wired to hundreds of brands. That is hard to copy. In 2018, private investors agreed to buy the whole company, for about three point five billion dollars, including debt. It stopped publishing its accounts. That is why the newest public numbers are from 2017. One of its biggest rivals, InComm, is privately owned too. And the rack is moving onto your phone. In 2017, Blackhawk bought CashStar, which helps retailers sell their own gift cards, digital and plastic.
+
+#### The Dark Side
+There is a darker side to all this. A gift card works like cash. Whoever has the numbers on the back has the money. That makes it a favorite tool of scammers. They pose as the tax office, a bank, or tech support, and tell the victim to buy gift cards and read out the numbers. In 2024, people reported losing two hundred twelve million dollars this way to the Federal Trade Commission. And it is rising. In the first nine months of 2025, reported losses were already close to two hundred million. And most victims never report it. No real agency, and no real company, will ever ask to be paid in gift cards.
+
+#### For You
+So what does all this mean for you? One. Treat a gift card like cash, because that is what it is. Two. Spend it soon. Every month in the drawer is a free loan to the brand. Three. Check your drawers. The law gives you at least five years, and often more. Four. If a caller tells you to pay with gift cards, hang up. It is a scam. And the next time you stand at a checkout, look at that rack again.
+
+#### The Idea
+It looks like a wall of presents. It is really a wall of tiny loans. Sold by a store that does not own the brands. Wired together by a company most people have never heard of. And paid for, up front, by you. If you enjoyed this, subscribe. Next time, we open up another business hiding in plain sight.
+
+### Sources
+1. Bankrate survey of US adults (September 2024)
+2. Blackhawk Network annual report for 2017 (Form 10-K): founded in 2001 as a division of Safeway
+3. Blackhawk Network annual report for 2017 (Form 10-K)
+4. Blackhawk Network annual report for 2017 (Form 10-K): US Retail revenue was 9.2% of the value loaded
+5. Blackhawk Network annual report for 2017 (Form 10-K): partner distribution expense, 60.3% (US Retail, 2017)
+6. Blackhawk Network annual report for 2017 (Form 10-K) (9.2% of $100, times 60.3%)
+7. Blackhawk Network annual report for 2017 (Form 10-K) (cards are activated at the point of sale)
+8. Starbucks annual report, fiscal 2025 (Form 10-K): stored value card liability and deferred revenue, $1,840.6M
+9. Starbucks annual report, fiscal 2025 (Form 10-K)
+10. Starbucks annual report, fiscal 2025 (Form 10-K) (breakage is estimated from past redemption rates)
+11. Starbucks annual report, fiscal 2025 (Form 10-K): breakage of $200.4M and $22.0M
+12. Credit CARD Act of 2009; Federal Trade Commission guidance
+13. California gift card law, as summarized by Privacy Rights Clearinghouse
+14. Starbucks annual report, fiscal 2025 (Form 10-K) (unclaimed property remittances)
+15. Illustrative example
+16. National Retail Federation holiday survey (October 2026)
+17. Blackhawk Network annual report for 2017 (Form 10-K): retail transaction dollar volume over $16.3B
+18. Blackhawk Network annual report for 2017 (Form 10-K): net loss of $155.8M
+19. Blackhawk Network annual report for 2017 (Form 10-K) (10.3% in 2017)
+20. Blackhawk Network annual report for 2017 (Form 10-K) (11.2% in 2017)
+21. Blackhawk Network quarterly results, 2018 (partners with a higher commission share)
+22. Blackhawk Network annual report for 2017 (Form 10-K) (merger agreement, January 2018)
+23. Blackhawk Network annual report for 2017 (Form 10-K) (lists InComm among its competitors)
+24. Federal Trade Commission
+25. Federal Trade Commission data for 2024, as reported by NCSL
+26. Federal Trade Commission data, as reported by eMarketer
+
+
+## Scholastic Book Fair: Who Really Makes the Money?
+
+Film title: The Scholastic Book Fair: Who Really Makes the Money?
+Page: https://knoveo.com/stories/book-fair-machine/
+
+### The short answer
+Scholastic's book fairs brought in $576.0 million in its 2026 financial year, about 36 cents of every dollar of its $1,581.9 million revenue. The school provides the room, the staff and the customers, and Scholastic provides the books, the cases and the trucks. On a fair with $4,000 or more in sales, the school chooses 25% in cash or 50% in Scholastic Dollars, which are spent in Scholastic's own catalog or at the school's next fair. Scholastic says fairs raise more than $200 million a year for schools, and many schools choose Scholastic Dollars on purpose. In the same year the whole company made an operating profit of about $15 million, and the children's book division, which holds the fairs, made $143 million.
+
+### What we checked
+- In its 2026 financial year, Scholastic had revenue of $1,581.9 million, and Book Fairs brought in $576.0 million of it. (Source: Scholastic annual report, fiscal 2026 (Form 10-K))
+- The whole company made an operating profit of $15.2 million. Its children's book division, which holds the fairs, made $142.9 million. (Source: Scholastic annual report, fiscal 2026 (Form 10-K))
+- An average fair sells about $6,000 in a week, and about 70% of fairs are run by the school librarian. (Source: Education Week (October 2023))
+- For 2026-27, a school with $4,000 or more in sales chooses 25% in cash or 50% in Scholastic Dollars. Smaller fairs earn a smaller share. (Source: Scholastic Book Fairs, rewards for 2026-27)
+- Scholastic Dollars earned from a fair's sales do not expire, while bonus rewards expire six months after the fair starts. (Source: Scholastic Book Fairs, "All about your Scholastic Dollars")
+- In 2023, Scholastic put 64 titles into a separate case that schools could opt out of, said it was responding to state laws, then apologized and ended the separate case. (Source: NPR and Publishers Weekly (October 2023))
+
+### Questions
+**Do schools make money from the Scholastic Book Fair?**
+Yes. Scholastic says fairs raise more than $200 million a year for schools. On a fair with $4,000 or more in sales, a school gets 25% in cash or 50% in Scholastic Dollars. For an average fair of about $6,000, that is about $1,500 in cash or about 3,000 Scholastic Dollars. Scholastic Dollars are spent in Scholastic's own catalog or at the school's next fair. Smaller fairs earn a smaller share.
+
+**How does Scholastic make money from book fairs?**
+The school provides the room, the staff and the customers, and Scholastic provides the books, the cases and the trucks. Fairs brought in $576.0 million in its 2026 financial year, up from $548.3 million the year before. A field team of about 570 people books and supports them, and Scholastic has also grown by buying rivals, including the biggest one in 1998 for about $10 million.
+
+**What are the criticisms of the Scholastic Book Fair?**
+Librarians told Education Week in 2024 that students split into those who could buy and those who could not, and one researcher said parents on low incomes called it their most embarrassing experience. Some librarians have complained of fewer titles and more merchandise. Scholastic says those items have been cut back, that a school can ask for a books-only fair, and that its giving programs give away more than a million books a year.
+
+### The whole story
+
+#### Cold open
+This is an empty school gym. On Monday morning, a truck pulls up outside. Out roll the silver cases. They swing open. And the gym becomes a bookstore. If you went to school in America, you probably remember this week. In about a week, an average fair sells around six thousand dollars' worth. The store pays no rent. The people at the till are librarians and parent volunteers. And the school's reward often comes in a currency that only one company accepts. So who really makes money at the school book fair? This is the business inside the gym. This is the book fair machine.
+
+#### The Numbers
+Start with the company behind it. Scholastic is a publisher. In the United States, it publishes Harry Potter, Dog Man and The Hunger Games. You would guess the money comes from bestsellers. In its 2026 financial year, Scholastic's revenue was about one point six billion dollars. Five hundred seventy-six million of that came from book fairs. That is thirty-six cents of every dollar. From pop-up shops in school gyms. And look at the profit. The whole company made an operating profit of about fifteen million dollars. The children's book division, which holds the fairs, made one hundred forty-three million. That division also includes book clubs and bookstore sales. But the fairs are its biggest piece. Other parts of the company lost money. And the fairs are still growing. Revenue rose five percent in a year, with more fairs, and more money per fair. It is also a seasonal machine. In summer, when schools close, it nearly stops. So the gym is not a side business. The gym is the engine.
+
+#### How It Works
+So how does a fair actually work? The school picks a week. Scholastic sends a truck. The cases arrive already packed with books, sorted by age. Volunteers wheel them in, and set them up in a U shape. A school gets a few hundred different titles. The cash registers usually belong to Scholastic. The staff do not. If a shelf runs low during the week, the school can ask for a restock. About seventy percent of fairs are run by the school librarian. The rest are run mostly by parent volunteers. Children come class by class. Flyers go home. Parents send money. Then the cases close, the truck comes back, and the fair moves to the next school. Scholastic says it runs around a hundred thousand fairs a year. And reaches more than thirty million children. Behind them is a field team of about five hundred seventy people, booking and supporting fairs. Think about what that means for costs. A normal bookstore pays rent, wages, and marketing. Here, the school provides the room, the staff, and every customer. What Scholastic provides is the books, the cases, and the trucks.
+
+#### The Deal
+So what does the school get? Take an average fair. About six thousand dollars in sales. Some small schools take in about twelve hundred. A few very large ones reach a hundred thousand. The school has two choices. Choice one. Cash. For a fair this size, twenty-five percent. That is about fifteen hundred dollars for the school. Choice two. Fifty percent. Double. But not in dollars. In Scholastic Dollars. Three thousand of them. They are spent in Scholastic's own catalog, or at the school's next fair. So watch what happens. Scholastic keeps all the cash. And the school's share comes back to Scholastic, to be swapped for more of its books. A dollar of books costs Scholastic less than a dollar of cash. To be fair, schools are not being tricked. Many choose this on purpose. A library with no book budget gets twice as many books this way. Scholastic Dollars earned from a fair's sales do not expire. Bonus rewards are different. Those expire six months after the fair starts. And there are extra rewards for schools that hold more than one fair a year. Every one of those rules points the same way. Come back, and spend it here. But smaller fairs earn a smaller share. Across the country, Scholastic says fairs raise more than two hundred million dollars a year for schools. Which tells you how much money the fairs take in.
+
+#### The Moat
+So why does nobody else do this? Scholastic did not invent the book fair. It bought its way in. In 1981, it bought a company called California School Book Fairs. Then it kept buying. In 1998, it took over the fairs of its biggest rival, for about ten million dollars. That rival had run nineteen thousand fairs the year before. In 2019, it bought another one, a family company in California. What it built is very hard to copy. Warehouses across the country. Its own trucks. And close to two thousand warehouse workers. And a relationship with tens of thousands of schools, renewed every year. In 2017, a big school supplier called Follett launched its own book fairs. It started with one hundred eighty fairs, and had thousands booked by 2020. Then the pandemic closed the schools. Four years later, it stopped. A startup called Literati took over that business. In 2026, Literati said its fairs bring in nearly forty million dollars a year. Scholastic's fairs bring in more than fourteen times that. The moat is not the books. Anyone can buy books. The moat is the truck, the case, and the school's calendar.
+
+#### The Kids
+Now look at it from the child's side. A fair is exciting. For many children, it is the only bookstore they ever walk into. But the customers are six to twelve years old, shopping with their classmates watching. Librarians told Education Week they saw students split into two groups. Those who could buy, and those who could not. One researcher said parents on low incomes called it their most embarrassing experience. Scholastic's answer is a giving program, called Share the Fair, and more books at five dollars or less. It also runs sponsored fairs, where every child takes home books for free. Scholastic says these programs give away more than a million books a year. A million is a lot of books. It is also a small slice of the total. And some librarians have gone further, and built free book fairs of their own. Then there is the stuff that is not books. Novelty pens. Erasers. Posters. Some librarians have complained of fewer titles and more merchandise. Scholastic says those items have been cut back, and that a school can ask for a books-only fair. And cash is fading. Parents can now load money onto an e-wallet before the fair. If a child does not spend it all, the rest becomes a Scholastic gift card balance. If you watched our film on gift cards, you know what an unspent balance is worth to a company. It can be used at the next fair, or donated to the school's giving fund. One more thing. A fair is not a neutral shelf. Somebody chooses what goes in the cases. In 2023, Scholastic put sixty-four titles, many dealing with race and gender, into a separate case that schools could opt out of. Scholastic said it was responding to new state laws on school books. Authors and librarians protested. Within days, Scholastic apologized, called it a mistake, and ended the separate case. Whoever fills the cases decides what thirty million children see.
+
+#### For You
+So what does all this mean for you? One. Agree a budget with your child before the fair, not at the till. Two. Ask your school which reward it takes. Cash, or Scholastic Dollars. Three. Check for leftover e-wallet money. Use it, or give it to the school's fund. Four. If the toys bother you, ask the school about a books-only fair. And if you are a teacher or a librarian, do the math on cash against credit, for what your school actually needs. And five. If you can, give a little to the fund for the children who cannot buy.
+
+#### The Idea
+The book fair looks like a school event. It is really a store. With free rent, free staff, and customers delivered class by class. It pays its landlord partly in its own money. And it moves on before the week is over. It is also how millions of children get to pick out a book of their own. Both things are true. If you enjoyed this, subscribe. Next time, we open up another business hiding in plain sight.
+
+### Sources
+1. Education Week (October 2023): average fair revenue, as told by Scholastic
+2. Education Week (October 2023)
+3. Scholastic annual report, fiscal 2026 (Form 10-K)
+4. Scholastic annual report, fiscal 2026 (Form 10-K): revenue of $1,581.9M
+5. Scholastic annual report, fiscal 2026 (Form 10-K): Book Fairs revenue of $576.0M; figures in millions
+6. Scholastic annual report, fiscal 2026 (Form 10-K) ($576.0M of $1,581.9M)
+7. Scholastic annual report, fiscal 2026 (Form 10-K): operating income $15.2M; segment $142.9M; in millions
+8. Scholastic annual report, fiscal 2026 (Form 10-K): Children's Book Publishing and Distribution, $142.9M
+9. Scholastic annual report, fiscal 2026 (Form 10-K): fairs $576.0M of the segment's $964.2M
+10. Scholastic annual report, fiscal 2026 (Form 10-K): Education and Entertainment segments reported losses
+11. Scholastic annual report, fiscal 2026 (Form 10-K): $548.3M to $576.0M; in millions
+12. Scholastic Book Fairs host guides
+13. Scholastic Book Fairs press kit ("more than 100,000 Book Fairs")
+14. Scholastic Book Fairs press kit
+15. Scholastic Book Fairs, rewards for 2026-27: 25% cash at $4,000 or more in sales
+16. Scholastic Book Fairs, rewards for 2026-27: 50% in Scholastic Dollars at $4,000 or more
+17. Scholastic Book Fairs, "All about your Scholastic Dollars"
+18. Knoveo's reasoning: a publisher's books cost it less than their list price
+19. Scholastic Book Fairs, rewards for 2026-27 (lower tiers below $4,000 in sales)
+20. Scholastic Book Fairs press kit; Education Week (October 2023)
+21. Scholastic company history; Mental Floss (June 2020)
+22. Publishers Weekly (July 1998): Pages Inc., the second-largest operator, $10.5M
+23. Publishers Weekly (July 1998)
+24. Scholastic press release (December 2019): Mrs. Nelson's Book Fair Company
+25. Scholastic annual report, fiscal 2026 (Form 10-K): about 1,865 warehouse employees, most part-time
+26. School Library Journal; Source: Publishers Weekly
+27. Publishers Weekly: about 5,700 fairs booked for 2019-20
+28. Publishers Weekly
+29. Publishers Weekly: Follett held no fairs after November 15, 2021
+30. Publishers Lunch (April 2026); Scholastic annual report, fiscal 2026; in millions
+31. $576.0M against about $40M
+32. Education Week (June 2024)
+33. Education Week (June 2024), quoting Paul Gorski
+34. Education Week (June 2024); Scholastic Book Fairs
+35. School Library Journal
+36. Scholastic Book Fairs, "How eWallet works"
+37. Scholastic Book Fairs, "How eWallet works": unspent funds convert to an eGift Card balance
+38. Scholastic Book Fairs, eWallet and Share the Fair pages
+39. NPR and Publishers Weekly (October 2023)
+40. NPR and Publishers Weekly (October 2023): apology dated October 24, 2023
